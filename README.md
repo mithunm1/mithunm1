@@ -1,4 +1,5 @@
-<h1>Hey, I'm Mithun! <br/><a href="https://github.com/chickentm">Programmer</a> | <a href="https://www.linkedin.com/in/mithunmanivannan/">Engineer</a> | <a href="https://www.youtube.com/c/chickentmgaming">YouTuber</a></h1>
+<h1>Hey, I'm Mithun! </h1>
+<h4>- Python programmer with a background in mechatronics engineering.<br/>- Thrives on creative problem-solving and efficient coding</h4>
 
 <h2>👨‍💻 Programming Works:</h2>
 - <b>Python</b>
