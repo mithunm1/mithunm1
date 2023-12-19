@@ -1,5 +1,5 @@
 <h1>Hey, I'm Mithun! </h1>
-<h4>- Python programmer with a background in mechatronics engineering.<br/>- Thrives on creative problem-solving and efficient coding</h4>
+<h4>* A python, C++ and embedded C programmer with a background in mechatronics engineering, who thrives on creative problem-solving and efficient coding</h4>
 
 <h2>👨‍💻 Programming Works:</h2>
 - <b>Python</b>
