@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Programming Works:</h2>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - (upload code works and add links)
 
 <h2> 🤝 Connect with me:</h2>
 
