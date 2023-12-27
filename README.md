@@ -45,7 +45,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickentm&label=Profile%20views&color=0eb4b1&style=flat" alt="chickentm" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&show_icons=true&locale=en&layout=compact" alt="chickentm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&show_icons=true&theme=dark&locale=en&layout=compact" alt="chickentm" /></p>
 
 
 
