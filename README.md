@@ -14,9 +14,10 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,html,css,bootstrap,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
   </a>
 </p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8" alt="chickentm" /></p>
+<h2 align="left">🖥️ Most Used Languages </h2>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8&hide_title=True" alt="chickentm" /></p>
 
-<h2 align="left"> 🤝🏻 Connect with me</h2>
+<h2 align="left">🤝🏻 Connect with me </h2>
 <p align="left">
 <a href="mailto:mithunmanivannan@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="outlookmail" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/mithunmanivannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunmanivannan" height="25" width="30" /></a>
