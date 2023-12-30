@@ -2,15 +2,15 @@
 <h3 align="center">A python, C++ and embedded C programmer with a background in mechatronics engineering, who thrives on creative problem-solving and efficient coding.</h3>
 <!--<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
 
-<h2>👨🏻‍💻 Programming Works</h2>
+<!-- <h2>👨🏻‍💻 Programming Works</h2>
 - <b>Python</b>
-  - (upload code works and add links)
+  - (upload code works and add links) -->
 
 <h2 align="left">⚒️ Tech Stack</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,selenium,django,flask,c,cpp"/>
-    <img src="https://skillicons.dev/icons?i=git,gitlab,html,css,bootstrap,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
+    <img src="https://skillicons.dev/icons?i=py,flask,selenium,django,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,bootstrap,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
   </a>
 </p>
 <!-- <p align="left"> 
