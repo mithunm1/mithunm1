@@ -37,10 +37,11 @@
 <h2 align="left"> 🤝🏻 Connect with me</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/mithunmanivannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunmanivannan" height="30" width="40" /></a>
-<a href="https://twitter.com/chickentm_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chickentm_yt" height="30" width="40" /></a>
+<a href="mailto:mithunmanivannan@outlook.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="outlookmail" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/mithunmanivannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunmanivannan" height="25" width="30" /></a>
+<!-- <a href="https://twitter.com/chickentm_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chickentm_yt" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/chickentmgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chickentmgaming" height="30" width="40" /></a>
-<a href="https://instagram.com/chickentm_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chickentm_yt" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/chickentm_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chickentm_yt" height="30" width="40" /></a> -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickentm&label=Profile%20views&color=0eb4b1&style=flat" alt="chickentm" /> </p>
