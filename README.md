@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,html,css,bootstrap,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
   </a>
 </p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8&title_color=000000#gh-light-mode-only" alt="chickentm" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8" alt="chickentm" /></p>
 
 <h2 align="left"> 🤝🏻 Connect with me</h2>
 <p align="left">
