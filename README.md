@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chickentm&label=Profile%20views&color=blue&style=for-the-badge" alt="chickentm" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mithunm1&label=Profile%20views&color=blue&style=for-the-badge" alt="chickentm" /> </p>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mithun</h1>
 <h3 align="center">A python, C++ and embedded C programmer with a background in mechatronics engineering, who thrives on creative problem-solving and efficient coding.</h3>
 <!--<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
@@ -15,7 +15,7 @@
   </a>
 </p>
 <h2 align="left">🖥️ Most Used Languages </h2>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickentm&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8&hide_title=True" alt="chickentm" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunm1&hide_border=True&theme=transparent&&locale=en&layout=donut&langs_count=8&hide_title=True" alt="chickentm" /></p>
 
 <h2 align="left">🤝🏻 Connect with me </h2>
 <p align="left">
