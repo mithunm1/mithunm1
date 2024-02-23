@@ -10,8 +10,8 @@
 <h2 align="left">⚒️ Tech Stack </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,selenium,django,c,cpp"/>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,html,css,bootstrap,anaconda,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
+    <img src="https://skillicons.dev/icons?i=py,flask,selenium,django,anaconda,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,html,css,bootstrap,mysql,postgres,sqlite,postman,vscode,matlab,arduino,discord"/>
   </a>
 </p>
 <h2 align="left">🖥️ Most Used Languages </h2>
